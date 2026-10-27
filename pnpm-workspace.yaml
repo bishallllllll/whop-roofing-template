@@ -1,0 +1,6 @@
+allowBuilds:
+  '@whop/react': set this to true or false
+  esbuild: true
+  lightningcss: true
+  sharp: true
+  workerd: true
